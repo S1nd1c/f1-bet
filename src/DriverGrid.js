@@ -46,7 +46,7 @@ function DriverGrid() {
     mainButton.show();
     mainButton.isActive = false;
     mainButton.onClick(() => {
-        console.log("Clicked")
+        window.Telegram.WebApp.close()
     })
   }, []);
 
