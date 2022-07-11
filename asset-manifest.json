@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/f1-bet/static/css/main.ddf90ab5.css",
+    "main.js": "/f1-bet/static/js/main.830c347a.js",
+    "static/js/787.8c4340b6.chunk.js": "/f1-bet/static/js/787.8c4340b6.chunk.js",
+    "index.html": "/f1-bet/index.html",
+    "static/media/tick.svg": "/f1-bet/static/media/tick.ede9f663bdbdd1a176d6985f8afa0b4c.svg",
+    "main.ddf90ab5.css.map": "/f1-bet/static/css/main.ddf90ab5.css.map",
+    "main.830c347a.js.map": "/f1-bet/static/js/main.830c347a.js.map",
+    "787.8c4340b6.chunk.js.map": "/f1-bet/static/js/787.8c4340b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddf90ab5.css",
+    "static/js/main.830c347a.js"
+  ]
+}
