@@ -14,7 +14,7 @@ function Driver(props) {
                 </div>
             }
         </div>
-        <span className='text-lg font-bold font-mono'>{props.driverName}</span>
+        <span className='Name text-lg font-bold font-mono'>{props.driverName}</span>
     </div>
   )
 }

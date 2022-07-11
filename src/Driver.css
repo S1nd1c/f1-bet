@@ -2,3 +2,7 @@
 .picked {
     background-color: rgba(3, 105, 161, 0.7)
 }
+
+.name {
+    color: var(--tg-theme-button-color)
+}
